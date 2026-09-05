@@ -31,6 +31,7 @@
 🔌 API Testing | Postman | REST APIs
 🗄️ SQL | Database Testing
 🐞 Bug Reporting | Jira | Defect Tracking
+🌐 Sitecore | CMS Testing | Content Validation
 🔄 Agile / Scrum | SDLC | STLC
 
 💡 I don't just test features...
@@ -47,7 +48,19 @@
 <img src="https://img.shields.io/badge/Manual%20Testing-6C63FF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Functional%20Testing-FF6B6B?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Regression%20Testing-4ECDC4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/API%20Testing-FF9F43?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Smoke%20Testing-6C63FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Sanity%20Testing-FF9F43?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Exploratory%20Testing-8E44AD?style=for-the-badge"/>
+</p>
+
+### 🌐 Sitecore & CMS
+
+<p>
+<img src="https://img.shields.io/badge/Sitecore-EB1F2E?style=for-the-badge&logo=sitecore&logoColor=white"/>
+<img src="https://img.shields.io/badge/CMS%20Testing-34495E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Content%20Validation-2C3E50?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Component%20Testing-34495E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Content%20Authoring-2C3E50?style=for-the-badge"/>
 </p>
 
 ### 🔌 API & Database
@@ -72,26 +85,87 @@
 
 ## 🚀 What I Do
 
-| 🔍 Area            | 💡 Expertise                                   |
-| ------------------ | ---------------------------------------------- |
-| 🧪 Testing         | Manual, Functional, Regression, Smoke & Sanity |
-| 🔌 API             | REST API Testing, Postman                      |
-| 🗄️ Database       | SQL & Data Validation                          |
-| 🐞 Defects         | Bug Reporting & Root Cause Analysis            |
-| 📋 Test Management | Test Cases, Test Scenarios & Test Execution    |
-| 🔄 Methodology     | Agile / Scrum                                  |
-| 🛠️ Tools          | Jira, Git & GitHub                             |
+| 🔍 Area            | 💡 Expertise                                        |
+| :----------------- | :-------------------------------------------------- |
+| 🧪 Testing         | Manual, Functional, Regression, Smoke & Sanity      |
+| 🌐 Sitecore        | CMS Testing, Content Validation & Component Testing |
+| 🔌 API             | REST API Testing, Postman                           |
+| 🗄️ Database       | SQL & Data Validation                               |
+| 🐞 Defects         | Bug Reporting, Tracking & Validation                |
+| 📋 Test Management | Test Cases, Test Scenarios & Test Execution         |
+| 🔎 Exploratory     | Edge Cases & Negative Testing                       |
+| 🔄 Methodology     | Agile / Scrum                                       |
+| 🛠️ Tools          | Jira, Git & GitHub                                  |
+
+---
+
+## 🌐 Sitecore Testing
+
+```text
+Sitecore CMS
+     │
+     ├── 📝 Content Validation
+     ├── 🧩 Component Testing
+     ├── 📄 Page & Template Validation
+     ├── 🔗 Link & Navigation Testing
+     ├── 🖼️ Media Validation
+     ├── 👤 Content Authoring Workflows
+     ├── 📱 Responsive UI Testing
+     ├── 🔍 Cross-Browser Testing
+     └── 🚀 Release Validation
+```
+
+---
+
+## 📋 QA Workflow
+
+```text
+Requirement Analysis
+        ↓
+Test Scenario Design
+        ↓
+Test Case Preparation
+        ↓
+Test Data Preparation
+        ↓
+Test Execution
+        ↓
+Defect Identification
+        ↓
+Bug Reporting → Jira
+        ↓
+Fix Validation
+        ↓
+Retesting & Regression
+        ↓
+Release Validation
+```
+
+---
+
+## 💡 QA Mindset
+
+<p align="center">
+
+> 🐛 <i>"A good tester doesn't just find bugs.<br>
+> They find the bugs nobody thought to look for."</i>
+
+</p>
+
+<p align="center">
+  <b>Think like a user. Test like a QA. Deliver like a team.</b>
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Titiksha2809&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&border_radius=15"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Titiksha2809&theme=tokyonight&hide_border=true&border_radius=15"/>
 </p>
 
 ---
@@ -104,21 +178,14 @@
 
 ---
 
-## 💭 QA Mindset
-
-<p align="center">
-
-> 🐛 "A good tester doesn't just find bugs.<br>
-> They find the bugs nobody thought to look for."
-
-</p>
-
----
-
 <h3 align="center">
   🧪 Test • 🔍 Find • 🐞 Fix • 🚀 Deliver
 </h3>
 
 <p align="center">
   <b>✨ Quality is everyone's responsibility, but testing is my passion. ✨</b>
+</p>
+
+<p align="center">
+  <sub>Made with ❤️ and a QA mindset</sub>
 </p>
