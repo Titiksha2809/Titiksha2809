@@ -1,11 +1,11 @@
 <h1 align="center">✨ Hey! I'm Titiksha Sharma</h1>
 
 <h3 align="center">
-  🧪 QA Engineer &nbsp;|&nbsp; 🔍 Software Testing &nbsp;|&nbsp; 🚀 Quality Enthusiast
+  🧪 QA Engineer &nbsp;|&nbsp; 🤖 Test Automation &nbsp;|&nbsp; 🔍 Software Quality
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Breaking+bugs+before+users+do+%F0%9F%90%9B;Testing+with+curiosity+%F0%9F%94%8D;Quality+is+not+an+accident+%E2%9C%A8;Think+like+a+user%2C+test+like+a+QA+%F0%9F%A7%AA"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=650&lines=Breaking+bugs+before+users+do+%F0%9F%90%9B;Automating+tests+with+precision+%F0%9F%A4%96;Testing+with+curiosity+%F0%9F%94%8D;Quality+is+not+an+accident+%E2%9C%A8;Think+like+a+user%2C+test+like+a+QA+%F0%9F%A7%AA"/>
 </p>
 
 <p align="center">
@@ -28,6 +28,8 @@
 🧪 QA Engineer passionate about delivering high-quality software
 
 🔍 Manual Testing | Functional | Regression | Integration
+🤖 Automation Testing | Selenium | Playwright
+☕ Java | TypeScript
 🔌 API Testing | Postman | REST APIs
 🗄️ SQL | Database Testing
 🐞 Bug Reporting | Jira | Defect Tracking
@@ -35,14 +37,14 @@
 🔄 Agile / Scrum | SDLC | STLC
 
 💡 I don't just test features...
-   I think about how users will break them. 😎
+   I automate repetitive work and explore what others might miss. 😎
 ```
 
 ---
 
-## 🧰 Tech Stack
+## 🧰 Tools & Technologies
 
-### 🧪 Testing & QA
+### 🧪 Manual Testing & QA
 
 <p>
 <img src="https://img.shields.io/badge/Manual%20Testing-6C63FF?style=for-the-badge"/>
@@ -51,6 +53,20 @@
 <img src="https://img.shields.io/badge/Smoke%20Testing-6C63FF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Sanity%20Testing-FF9F43?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Exploratory%20Testing-8E44AD?style=for-the-badge"/>
+</p>
+
+### 🤖 Automation Testing
+
+<p>
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
+</p>
+
+### 💻 Programming Languages
+
+<p>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 </p>
 
 ### 🌐 Sitecore & CMS
@@ -87,15 +103,43 @@
 
 | 🔍 Area            | 💡 Expertise                                        |
 | :----------------- | :-------------------------------------------------- |
-| 🧪 Testing         | Manual, Functional, Regression, Smoke & Sanity      |
-| 🌐 Sitecore        | CMS Testing, Content Validation & Component Testing |
-| 🔌 API             | REST API Testing, Postman                           |
+| 🧪 Manual Testing  | Functional, Regression, Smoke, Sanity & Exploratory |
+| 🤖 Automation      | Selenium & Playwright                               |
+| ☕ Java             | Selenium automation & test development              |
+| 📘 TypeScript      | Playwright automation & test development            |
+| 🌐 Sitecore        | CMS, Content & Component Testing                    |
+| 🔌 API             | REST API Testing using Postman                      |
 | 🗄️ Database       | SQL & Data Validation                               |
 | 🐞 Defects         | Bug Reporting, Tracking & Validation                |
-| 📋 Test Management | Test Cases, Test Scenarios & Test Execution         |
-| 🔎 Exploratory     | Edge Cases & Negative Testing                       |
+| 📋 Test Management | Test Cases, Scenarios & Test Execution              |
 | 🔄 Methodology     | Agile / Scrum                                       |
 | 🛠️ Tools          | Jira, Git & GitHub                                  |
+
+---
+
+## 🤖 Automation Testing
+
+```text
+                 QA AUTOMATION
+                      │
+          ┌───────────┴───────────┐
+          │                       │
+      Selenium                Playwright
+          │                       │
+       ☕ Java               📘 TypeScript
+          │                       │
+          └───────────┬───────────┘
+                      │
+              Automated Testing
+                      │
+       ┌──────────────┼──────────────┐
+       │              │              │
+   UI Testing    Regression     Cross-Browser
+       │              │              │
+       └──────────────┼──────────────┘
+                      │
+                🚀 Quality
+```
 
 ---
 
@@ -128,7 +172,9 @@ Test Case Preparation
         ↓
 Test Data Preparation
         ↓
-Test Execution
+Manual Testing
+        ↓
+Automation Testing
         ↓
 Defect Identification
         ↓
@@ -138,8 +184,25 @@ Fix Validation
         ↓
 Retesting & Regression
         ↓
-Release Validation
+Release Validation 🚀
 ```
+
+---
+
+## 🎯 Current Focus
+
+<p align="center">
+
+🧪 Manual Testing   •  
+🤖 Selenium   •  
+🎭 Playwright   •  
+☕ Java   •  
+📘 TypeScript   •  
+🔌 API Testing   •  
+🗄️ SQL   •  
+🌐 Sitecore
+
+</p>
 
 ---
 
@@ -153,7 +216,7 @@ Release Validation
 </p>
 
 <p align="center">
-  <b>Think like a user. Test like a QA. Deliver like a team.</b>
+  <b>Think like a user. Automate what matters. Test beyond the happy path.</b>
 </p>
 
 ---
@@ -170,20 +233,12 @@ Release Validation
 
 ---
 
-## 🐍 Contribution Journey
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ashutosh00710/github-readme-activity-graph/master/graph.gif"/>
-</p>
-
----
-
 <h3 align="center">
-  🧪 Test • 🔍 Find • 🐞 Fix • 🚀 Deliver
+  🧪 Test • 🤖 Automate • 🔍 Discover • 🐞 Fix • 🚀 Deliver
 </h3>
 
 <p align="center">
-  <b>✨ Quality is everyone's responsibility, but testing is my passion. ✨</b>
+  <b>✨ Quality is everyone's responsibility, but quality engineering is my passion. ✨</b>
 </p>
 
 <p align="center">
